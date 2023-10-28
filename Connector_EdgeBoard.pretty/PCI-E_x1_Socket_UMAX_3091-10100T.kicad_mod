@@ -87,4 +87,9 @@
   (pad "B16" thru_hole circle (at -7.4 -8.7) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp d9c66128-660e-477d-997f-85eaa4e5bf5a))
   (pad "B17" thru_hole circle (at -8.4 -6.7) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 9bc0a81b-8d13-47c6-aa55-da2e34cc8853))
   (pad "B18" thru_hole circle (at -9.4 -8.7) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 3986af3c-59ac-4b72-8ef9-2c7c2e15c45a))
+  (model "${KIPRJMOD}/00_libs/01_footprints/Connector_EdgeBoard.pretty/3D_Models/PCI-E_x1_Socket_UMAX_3091-10100T.stp"
+    (offset (xyz -2 -10 5.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
